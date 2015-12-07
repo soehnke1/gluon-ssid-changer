@@ -5,7 +5,7 @@ Script to change the SSID when there is no suffic sufficient connection to the s
 
 It is quite basic, it just checks the Quality of the Connection and decides if a change of the SSID is necessary.
 
-Create a file "modules" with the following content in your <a href="https://github.com/ffac/site/tree/offline-ssid"> site directory:</a>
+
 
 GLUON_SITE_FEEDS="ssidchanger"<br>
 PACKAGES_SSIDCHANGER_REPO=https://github.com/soehnke1/gluon-ssid-changer/<br>
